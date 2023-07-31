@@ -1,2 +1,2 @@
-# Using-ML-to-predict-new-superconductors
+ML on MNIST and Diabetes dataset
  
